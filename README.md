@@ -1,2 +1,2 @@
 # creditcard-checker
-Javascript exercise from Codecademy
+In this project from Codecademy, It was an exercise to practise with Javascript. The story behind the making of this code was that I work for a company that suspects that credit card distributors have been mailing out cards that have invalid numbers.  In this project, I have the role of a clerk who checks if credit cards are valid. Every other clerk currently checks using pencil and paper, but I'll be optimizing the verification process using my knowledge of functions and loops to handle multiple credit cards at a time. 
